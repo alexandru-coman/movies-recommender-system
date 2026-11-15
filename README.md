@@ -1,5 +1,7 @@
 # CineMatch
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 **NLP-powered movie discovery and recommendation system.**
 
 CineMatch is a full-stack web application that combines semantic search, personalised recommendations, and a responsive cinema-themed interface. It uses Word2Vec and SBERT embeddings to understand movie descriptions and return relevant results.
@@ -82,6 +84,10 @@ Natural-language search first applies metadata filters, then ranks the remaining
 
 - [MovieLens 32M Movies Enriched](https://huggingface.co/datasets/krishnakamath/movielens-32m-movies-enriched-with-SIDs)
 - [The Movie Database (TMDB)](https://www.themoviedb.org/)
+
+## License
+
+This project is released under the [MIT License](./LICENSE).
 
 ## Notes
 
